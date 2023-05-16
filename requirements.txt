@@ -1,0 +1,11 @@
+# loading packages
+opencv-python
+numpy
+matplotlib
+pandas
+tqdm
+tensorflow_hub
+tensorflow
+ipywidgets
+scikit_learn
+scikit-learn
