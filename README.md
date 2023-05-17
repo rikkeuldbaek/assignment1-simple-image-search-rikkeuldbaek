@@ -70,7 +70,7 @@ bash setup.sh
 ## **1.6.3 Running the scripts** 
 ### **Run the Simple Image Search Algorithm** <br>
 Please open the folder ```notebook``` and open the ```simple_image_search.ipynb``` script and press "Run All". The *target image* can be modified in chunk 3:
-````ipynb
+````python
 compare_top5_hist("target_image") # specify user-specific target image here
 ````
 
